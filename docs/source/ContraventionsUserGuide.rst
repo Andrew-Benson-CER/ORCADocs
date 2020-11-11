@@ -1,10 +1,10 @@
-*****************************************
+#########################################
 Reporting Contravention of the DPR events
-*****************************************
+#########################################
 
-===============
+***************
 1. Introduction
-===============
+***************
 
 The Online Event Reporting System (OERS) was created to allow companies
 to report regulatory events directly to the Canada Energy Regulator
@@ -41,6 +41,7 @@ you can email
 is a monitored email box and CER staff will respond within one business
 day.
 
+========================================================
 3. Reportable Contraventions of DPR-A and Damage to Pipe
 ========================================================
 
