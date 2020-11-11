@@ -15,10 +15,10 @@ Reporting Remediation Events
 
 For information on other types of events required to be reported and for
 additional guidance on those event types (e.g., Incident reporting),
-please see the *Canada Energy Regulator Event Reporting Guidelines*
-(https://www.cer-rec.gc.ca/bts/ctrg/gnnb/rprtnggdlns/index-eng.html) or
-the *CER Remediation Process Guide*
-(https://www.cer-rec.gc.ca/sftnvrnmnt/nvrnmnt/rmdtnprcssgd/index-eng.html).
+please see the `Canada Energy Regulator Event Reporting Guidelines
+<https://www.cer-rec.gc.ca/bts/ctrg/gnnb/rprtnggdlns/index-eng.html>`__ or
+the `CER Remediation Process Guide
+<https://www.cer-rec.gc.ca/sftnvrnmnt/nvrnmnt/rmdtnprcssgd/index-eng.html>`__.
 
 2. Contact Us
 -----------------------------
@@ -68,17 +68,15 @@ click “Save and Next”.
 
 |image0|
 
-***Email Confirmation***
+**Email Confirmation**
 
 | A message with the link to the OERS portal will be sent to the email
-  address that you provided. If the
-| message does not appear in your Inbox, please check to see if it was
-  automatically moved into your Junk
-| E-Mail or another folder.
+  address that you provided. If the message does not appear in your Inbox,
+  please check to see if it was
+  automatically moved into your Junk E-Mail or another folder.
 
 | Click the link in the email confirmation to access the OERS portal,
-  where you will be
-| asked to enter further data.
+  where you will be asked to enter further data.
 
 4.2 Navigating in OERS
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -139,7 +137,7 @@ clicking “Edit” to the right of the contact.
 
 |image6|
 
-***Key Things to Know About the Location Page***
+**Key Things to Know About the Location Page**
 
 1. | Either a pipeline or a facility must be identified on the location
      page. If you cannot find the
@@ -151,13 +149,13 @@ clicking “Edit” to the right of the contact.
 
 |image7|
 
-1. For “What is the populated centre nearest to the contaminated site?”
+2. For “What is the populated centre nearest to the contaminated site?”
    please only enter the name of the hamlet, village, town etc. Do not
    enter the province.
 
 |image8|
 
-1. GPS coordinates are mandatory for contaminated sites. The “View
+3. GPS coordinates are mandatory for contaminated sites. The “View
    Location in Google Maps” function will only work if you have entered
    GPS coordinates into the system.
 
@@ -169,25 +167,23 @@ clicking “Edit” to the right of the contact.
       incorrect, please contact the
     | CER at remediation@cer-rec.gc.ca.
 
-1. Use the definitions below as guidance to assist in selecting the
+4. Use the definitions below as guidance to assist in selecting the
    appropriate land use category.
 
 |image10|
 
-a. Agricultural Land
-
-i.  | Lands which are either currently cultivated or show signs of
+Agricultural Land
+    | Lands which are either currently cultivated or show signs of
       recent cultivation
     | (i.e., within the past 5 years); or
 
-ii. | Lands which have not been recently cultivated (i.e., within the
+    | Lands which have not been recently cultivated (i.e., within the
       past 5 years), and
     | where sod has developed or is beginning to develop and which is
       used for
     | animal grazing or other agricultural purposes.
 
-b. Protected Area
-
+Protected Area
     | Lands with protective designations, as identified in government
       regulation, and for which development is not permitted or is
       limited. These could include, but are not limited to:
@@ -197,27 +193,23 @@ b. Protected Area
       designated Critical Habitat for
     | species on Schedule 1 of *the Species at Risk Act.*
 
-    c. Non‐Developed Land
-
+Non‐Developed Land
     | Lands which remain in a relatively natural state. These could
       include, but are not limited to
     | native prairie and forest land. If the land use falls into both
       the Protected Area and Non‐
     | developed Land categories, select ‘Protected Area’.
 
-    d. Developed Land – Industrial
-
+Developed Land – Industrial
     | Lands where the primary activity involves the production,
       manufacture, or construction of
     | goods.
 
-    e. Developed Land – Small Commercial
-
+Developed Land – Small Commercial
     Lands where the primary activity involves commercial businesses and
     not residential or manufacturing.
 
-    f. Developed Land – Residential
-
+Developed Land – Residential
     Lands where the primary activity involves residential housing and
     activities.
 
@@ -231,9 +223,9 @@ contamination. If third party contamination is being reported, include
 
 |image12|
 
-***Key Things to Know About the Initial Report Page***
+**Key Things to Know About the Initial Report Page**
 
-  | The one sentence description of the site should include the major
+1. | The one sentence description of the site should include the major
      contaminant and a few words
    | that describe the location. For example, ‘Hydrocarbon contamination
      at XYZ compressor
@@ -243,7 +235,7 @@ contamination. If third party contamination is being reported, include
 
     |image13|
 
-1. | The date the contamination was first discovered is the date upon
+2. | The date the contamination was first discovered is the date upon
      which the potential for
    | contamination was first discovered. The date the contamination was
      confirmed is the date
@@ -253,7 +245,7 @@ contamination. If third party contamination is being reported, include
 
 |image14|
 
-1. Use the definitions below as guidance to assist in selecting the
+3. Use the definitions below as guidance to assist in selecting the
    appropriate activity
 
     |image15|
@@ -284,21 +276,18 @@ contamination. If third party contamination is being reported, include
 
 4.8 Scenario
 ^^^^^^^^^^^^
-  The scenario page allows the company to provide more information
-  about the contamination being
-| reported. For example, if the company is reporting a “NOC”, the
-  circumstances page will allow the
-| company to report what type of contamination occurred. The
-  circumstances page will also trigger the
-| system to require additional information based on the user’s input.
+The scenario page allows the company to provide more information
+about the contamination being reported. For example, if the company is
+reporting a “NOC”, the circumstances page will allow the company to report
+what type of contamination occurred. The circumstances page will also
+trigger the system to require additional information based on the user’s input.
 
 |image19|
 
-|image20|
 
 |image21|
 
-***Key Things to Know About the Scenario Page***
+**Key Things to Know About the Scenario Page**
 
 1. | To describe the extent of contamination, provide brief details
      regarding the depth and spread of
@@ -335,11 +324,11 @@ contamination. If third party contamination is being reported, include
   date to mitigate the impacts of
 | contamination and planned remedial activities. The actions page will
   also trigger the system to require
-| additional information based on the user’s input.\ |image24|
+| additional information based on the user’s input.
 
 |image25|
 
-***Key Things to Know About the Actions Page***
+**Key Things to Know About the Actions Page**
 
 1. The planned actions to mitigate the impacts of contamination should
    include a brief description of planned next steps.
@@ -364,9 +353,9 @@ contamination. If third party contamination is being reported, include
     contamination will be remediated at facilities as specified in the
     company’s Environmental Protection Program.
 
-1. | Note that company owned property does not apply to Right of Ways
+4. | Note that company owned property does not apply to Right of Ways
      unless the company owns
-   | the property on which the Right of Way lies\ **. If the
+   | the property on which the Right of Way lies. If the
      contamination is confined to company
      owned property at the time of NOC submission but is later
      determined to have migrated off
@@ -400,9 +389,9 @@ information through OERS.
 
 For REM events that receive a medium or high risk site status, the REM
 event will follow the regular procedure highlighted in Section 5.0 of
-this document.\ |image27|
+this document.
 
-|image28|
+|image27|
 
 4.11 Company Notes
 ^^^^^^^^^^^^^^^^^^
@@ -427,7 +416,7 @@ commenter’s name and email address are required.
   and you will no longer be able to make changes to this information
   after you click the Submit button.
 
-***Key Things to Know About the Final Submission Page***
+**Key Things to Know About the Final Submission Page**
 
 1. The next steps for managing the contaminated site may vary depending
    on how the questions were answered during the NOC submission. Some
@@ -574,8 +563,6 @@ If the response to the information request includes a document, upload
 the document through the “Upload Document” page and select which
 Remediation Report Type and IR this response is addressing.
 
-|image40|
-
 |image41|
 
 Once a CER environmental analyst has reviewed the IR, they have the
@@ -611,11 +598,9 @@ wanting to save the progress for the annual update. Select “Submit,”
 when you are ready to send the annual update to the CER. The annual
 update cannot be changed once submitted.
 
-|image42|
-
 |image43|
 
-***Key Things to Know About Annual Updates***
+**Key Things to Know About Annual Updates**
 
 1. The site status needs to be updated annually. The below guidance
    should be used when assigning site statuses to REM events:
@@ -780,7 +765,7 @@ in OERS.
    :height: 0.67910in
 .. |image19| image:: media/image18.png
    :width: 6.18472in
-   :height: 1.37363in
+   :height: 4.37363in
 .. |image20| image:: media/image18.png
    :width: 6.19722in
    :height: 1.45971in
@@ -798,7 +783,7 @@ in OERS.
    :height: 1.47253in
 .. |image25| image:: media/image22.png
    :width: 6.50000in
-   :height: 2.95913in
+   :height: 4.95913in
 .. |image26| image:: media/image23.png
    :width: 6.50000in
    :height: 1.48403in
@@ -846,19 +831,19 @@ in OERS.
    :height: 2.98901in
 .. |image41| image:: media/image35.png
    :width: 6.21770in
-   :height: 1.74697in
+   :height: 3.74697in
 .. |image42| image:: media/image36.png
    :width: 6.50000in
    :height: 1.93407in
 .. |image43| image:: media/image36.png
    :width: 6.49994in
-   :height: 3.31193in
+   :height: 2.31193in
 .. |image44| image:: media/image37.png
    :width: 2.43750in
-   :height: 1.44792in
+   :height: 2.44792in
 .. |image45| image:: media/image38.png
    :width: 6.50000in
-   :height: 1.42014in
+   :height: 4.12014in
 .. |image46| image:: media/image25.png
    :width: 7.46154in
    :height: 3.75495in

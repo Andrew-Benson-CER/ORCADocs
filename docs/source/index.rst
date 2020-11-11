@@ -5,7 +5,7 @@ Online Event Reporting System
 ==============================
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 5
 
    EnglishRemGuide
    ContraventionsUserGuide
