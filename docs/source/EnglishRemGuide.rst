@@ -16,7 +16,7 @@ Reporting Remediation Events
 For information on other types of events required to be reported and for
 additional guidance on those event types (e.g., Incident reporting),
 please see the `Canada Energy Regulator Event Reporting Guidelines
-<https://www.cer-rec.gc.ca/bts/ctrg/gnnb/rprtnggdlns/index-eng.html>`__ or
+<https://www.cer-rec.gc.ca/en/about/acts-regulations/cer-act-regulations-guidance-notes-related-documents/canada-energy-regulator-event-reporting-guidelines/index.html>`__ or
 the `CER Remediation Process Guide
 <https://www.cer-rec.gc.ca/sftnvrnmnt/nvrnmnt/rmdtnprcssgd/index-eng.html>`__.
 
@@ -130,8 +130,8 @@ clicking “Edit” to the right of the contact.
 4.6 Location
 ^^^^^^^^^^^^^^^^^^^^
 
-  The location page is required for all events. It allows companies
-  to report details of the location to the CER.
+The location page is required for all events. It allows companies
+to report details of the location to the CER.
 
 |image4|
 
@@ -320,11 +320,11 @@ trigger the system to require additional information based on the user’s input
 4.9 Actions Page
 ^^^^^^^^^^^^^^^^
 
-| The actions page allows the company to describe the actions taken to
-  date to mitigate the impacts of
-| contamination and planned remedial activities. The actions page will
-  also trigger the system to require
-| additional information based on the user’s input.
+The actions page allows the company to describe the actions taken to
+date to mitigate the impacts of
+contamination and planned remedial activities. The actions page will
+also trigger the system to require
+additional information based on the user’s input.
 
 |image25|
 
