@@ -345,13 +345,13 @@ additional information based on the user’s input.
 
 |image26|
 
-    If the company indicates that the facility has an established
-    groundwater and surface water monitoring program that is implemented
-    and no free product is detected in groundwater wells, the CER may
-    require no further submissions beyond the CCME classification
-    worksheets and annual updates. The CER expects that accessible
-    contamination will be remediated at facilities as specified in the
-    company’s Environmental Protection Program.
+  If the company indicates that the facility has an established
+  groundwater and surface water monitoring program that is implemented
+  and no free product is detected in groundwater wells, the CER may
+  require no further submissions beyond the CCME classification
+  worksheets and annual updates. The CER expects that accessible
+  contamination will be remediated at facilities as specified in the
+  company’s Environmental Protection Program.
 
 4. | Note that company owned property does not apply to Right of Ways
      unless the company owns
