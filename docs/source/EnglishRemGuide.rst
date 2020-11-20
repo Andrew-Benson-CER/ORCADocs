@@ -1,4 +1,4 @@
-Reporting Remediation Events
+Reporting Remediation Events 
 ============================
 
 1. Introduction
