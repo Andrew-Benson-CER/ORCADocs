@@ -5,5 +5,9 @@ Video Demos
 .. note:: These are cool videos!
     Wow...so cool.
 
+---------------
+Some cool video
+---------------
+
 .. raw:: html
-   <iframe src="https://player.vimeo.com/video/680966838?h=cf7dc926ad" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/s7quOeiExX4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
