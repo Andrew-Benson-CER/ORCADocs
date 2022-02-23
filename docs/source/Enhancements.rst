@@ -2,7 +2,7 @@
 Video Demos
 ***********
 
-.. admonition:: These are cool videos!
+.. note:: These are cool videos!
     Wow...so cool.
 
 .. raw:: html
