@@ -1,13 +1,18 @@
-***********
-Video Demos
-***********
+*******************
+Video Demos Catalog
+*******************
 
-.. note:: These are cool videos!
-    Wow...so cool.
+.. note:: These videos are for use by CER regulated companies using the Operations Regulatory Compliance Application (ORCA) or the Online Event Reporting System (OERS). System admins will add videos as needed. If you have a recommendation for a video please email `ORCA Support <mailto://dlerssupport@cer-rec.gc.ca>`_.
 
----------------
-Some cool video
----------------
+-----------------------------------------------
+ORCA Enhancements 2021 (Deployed March 2, 2022)
+-----------------------------------------------
+This section contains videos related to system improvements in the 2021 annual maintenance project.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Information Requests (IR) for Compliance Activities
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The video below show what will happen in the system as of March 2, 2022 when CER staff ask an IR for a compliance activity. Previously this IR would have shown up in the "Observations" section of the system. Now all IRs will show up under their own menu and company reps on that file will receive a notification from the system.
 
 .. raw:: html
 
