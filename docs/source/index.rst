@@ -10,3 +10,4 @@ Online Event Reporting System
    EnglishRemGuide
    ContraventionsUserGuide
    CMSEnglish
+   Enhancements
