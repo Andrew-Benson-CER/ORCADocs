@@ -8,7 +8,7 @@ Video Demos Catalog
 Information Requests in ORCA (New March 2022)
 ---------------------------------------------
 
-The video below show what will happen in the system as of March 16, 2022 when CER staff ask an IR for any file in ORCA including Reported Events (OERS), Compliance Activities, or Conditions. All IRs will now show up under their own menu and company reps on that file will receive a notification from the system.
+The video below shows what will happen in the system as of March 16, 2022 when CER staff ask an IR for any file in ORCA including Reported Events (OERS), or Compliance Activities. All IRs will now show up under their own menu and company reps on that file will receive a notification from the system.
 
 .. raw:: html
 
