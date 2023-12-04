@@ -62,7 +62,7 @@ including an email address. The email address will be used to allow the
 system to send you a link to access the full OERS portal. Once complete,
 click “Save and Next”.
 
-|image0|
+|image3|
 
 **Email Confirmation**
 
