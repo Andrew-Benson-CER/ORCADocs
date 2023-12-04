@@ -4,21 +4,15 @@ Reporting Remediation Events
 1. Introduction
 -----------------------------
 
-| The Online Event Reporting System (OERS) was created to allow
-  companies to report events
-| directly to the Canada Energy Regulator (CER). In this manual you will
-  find instructions on how to use OERS to report environmental
-  contamination through a Notice of Contamination (NOC), submit
-  documentation such as a remedial action plan (RAP), closure report and
-  annual update and communicate with the CER environmental analyst
-  assigned to the remediation (REM) event.
+| Welcome to the Canada Energy Regulator's (CER) Operations Regulatory Compliance Application (ORCA) Remediation User Guide. This system was created to support companies in reporting events directly to the CER. In this manual contains instructions on how to use the Online Event Reporting System (OERS) “the system” to report environmental contamination through a Notice of Contamination (NOC), and manage the resulting remediation event (REM event) by submitting documents such as a Remedial Action Plan (RAP), Risk Management Plan (RP), Closure Report and Annual Updates, and communicating with the CER. 
+
+The `CER Remediation Process Guide
+<https://www.cer-rec.gc.ca/sftnvrnmnt/nvrnmnt/rmdtnprcssgd/index-eng.html>`__ provides guidance on the CER’s process for submission of remediation documents and how to maintain compliance with requirements.
 
 For information on other types of events required to be reported and for
 additional guidance on those event types (e.g., Incident reporting),
 please see the `Canada Energy Regulator Event Reporting Guidelines
-<https://www.cer-rec.gc.ca/en/about/acts-regulations/cer-act-regulations-guidance-notes-related-documents/canada-energy-regulator-event-reporting-guidelines/index.html>`__ or
-the `CER Remediation Process Guide
-<https://www.cer-rec.gc.ca/sftnvrnmnt/nvrnmnt/rmdtnprcssgd/index-eng.html>`__.
+<https://www.cer-rec.gc.ca/en/about/acts-regulations/cer-act-regulations-guidance-notes-related-documents/canada-energy-regulator-event-reporting-guidelines/index.html>`__.
 
 2. Contact Us
 -----------------------------
@@ -45,11 +39,13 @@ NOC Notice of Contamination
 
 OERS Online Event Reporting System
 
-OM Operations and Maintenance
+ORCA Operations Regulatory Compliance Application
 
 RAP Remedial Action Plan
 
 REM Remediation Event
+
+RMP Risk Management Plan
 
 4. Notice of Contamination Submission
 --------------------------------------
@@ -100,38 +96,46 @@ Remediation.”
 
 |image1|
 
+When done entering selecting the event type, click “Save and Next” using the workflow buttons at the bottom of the page.
+
 **Note:** The identification of residual contamination in a Detailed
 Incident Report (DIR) will automatically generate a link to a NOC
 submission. The NOC should be filled out within five days of receiving
 the link. This link will be sent to the contact that completed the DIR.
 
-4.4 Company
+4.4 Notice of Contamination
 ^^^^^^^^^^^^^^^^^^^^
 
-The next screen asks about the company responsible for the particular
-pipeline on which the NOC occurred.
+An NOC is submitted when contamination at a site is confirmed through analytical testing or is automatically requested by the system when residual contamination remains following an incident. The NOC is populated with the best information available to the company at the time of submission. It is understood information will be further refined and improved as a contaminated site moves through the remediation process. 
+
+Since 1 May 2021, all NOCs submitted since 15 August 2018 are available online on the CER’s website. Once an NOC is submitted, information entered into specific fields is automatically published on the CER website as described in the All Company Letter from 8 April 2021.
+
+4.5 Company
+^^^^^^^^^^^^^^^^^^^^
+
+The Company screen is the first screen in the NOC submission. This screen asks the name of the company responsible for the facility or pipeline where the contamination was identified and also  which legislation applies. 
 
 | When done entering company information, click “Save and Next” using
   the workflow buttons at the
 | bottom of the page.
 
+
 | |image2|
 
-4.5 Contacts
+4.6 Contacts
 ^^^^^^^^^^^^^^^^^^^^
 
-The contacts screen will display the contact information entered in the
-initial contact page. Additional contacts may be entered on this screen
-by selecting “Add Contact.” Contact information can be modified by
-clicking “Edit” to the right of the contact.
+The Contacts page automatically displays the contact information entered in the initial Contact page. Additional contacts may be entered on this screen by selecting “Add Contact.” Contact information can be modified by clicking “Edit” to the right of the contact. All the company contacts listed on this Contacts page receive the automated emails generated and sent by OERS. 
+
+When finished entering information for all company contacts, click “Next” using the workflow buttons at the bottom of the page.
+
 
 |image3|
 
-4.6 Location
+4.7 Location
 ^^^^^^^^^^^^^^^^^^^^
 
-The location page is required for all events. It allows companies
-to report details of the location to the CER.
+The Location page contains information on the pipeline or facility associated with the REM event and information about where the contamination is located. 
 
 |image4|
 
@@ -213,11 +217,9 @@ Developed Land – Residential
     Lands where the primary activity involves residential housing and
     activities.
 
-4.7 Initial Report
+4.8 Initial Report
 ^^^^^^^^^^^^^^^^^^
-This page directs users to input information about the
-contamination. If third party contamination is being reported, include
-‘Third Party Contamination’ in the one-sentence description.
+The Initial Report page requires users to enter some primary information about the contamination. All the fields on this page are mandatory.
 
 |image11|
 
@@ -225,62 +227,27 @@ contamination. If third party contamination is being reported, include
 
 **Key Things to Know About the Initial Report Page**
 
-1. | The one sentence description of the site should include the major
-     contaminant and a few words
-   | that describe the location. For example, ‘Hydrocarbon contamination
-     at XYZ compressor
-   | station’ or, for a facility, ‘Amine contamination next to the XX
-     utilities building in the SW corner
-   | of the fenced yard’.
+1. | Does Contamination Contravene Other Regulatory Legislation (Acts and Regulations) (e.g., Fisheries Act, Canadian Environmental Protection Act, Species at Risk Act, Migratory Birds Act)? If the answer is "Yes”, list the legislation that is contravened. 
 
-    |image13|
 
-2. | The date the contamination was first discovered is the date upon
-     which the potential for
-   | contamination was first discovered. The date the contamination was
-     confirmed is the date
-   | upon which laboratory analytical results confirming contamination
-     above applicable criteria were received by the company, or a third
-     party working on behalf of the company.
 
-|image14|
+2. | The one sentence description of the contaminated site should include the major contaminants, the media where contamination was confirmed and a few words describing the location. For example, “Hydrocarbon contamination identified in soil on the Right-of-Way.” or “Amine contamination in soil at one borehole next to the XYZ utilities building in the southwest corner of the fenced yard.”
 
-3. Use the definitions below as guidance to assist in selecting the
-   appropriate activity
 
-    |image15|
 
-    Construction – should be selected when the REM event occurred during
-    a construction phase. The related CER Regulatory Instrument (order
-    or certificate) number must been entered for construction
-    activities.
+3. | 	A yes/no pulldown is available to answer, “Has Notification or reporting of the contamination to other local, provincial, territorial, or federal regulators been completed?”. If the answer is “Yes”, list which regulator(s) have been notified.
 
-    |image16|
 
-    Operation – should be selected when the REM event occurred during
-    the operational phase of a pipeline or facility.
+4. | A yes/no pulldown is available to answer, “Is this NOC the result of an Incident reported to the CER?”  If the answer is “Yes”, provide the Incident Event Number. Completing this field links the Incident Event Number to the REM event.
 
-    Maintenance - should be selected when the REM event occurred during
-    the maintenance of a pipeline or facility. The related Operations
-    and Maintenance (OM) notification event number must be entered for
-    maintenance activities.
 
-    |image17|
+5. | The “date the contamination was first discovered” is when the potential for contamination was first known. The “date the contamination was confirmed” is the date upon which laboratory analytical results confirming contamination was present was received by the company, or a third party working on behalf of the company.
 
-    Abandonment - should be selected when the event occurred during the
-    abandonment of a pipeline or facility. The related CER Regulatory
-    Instrument (Order or Certificate) number must be entered for
-    abandonment activities.
+Once complete, click “Save and Next” using the workflow buttons at the bottom of the page.
 
-    |image18|
-
-4.8 Scenario
+4.9 Scenario
 ^^^^^^^^^^^^
-The scenario page allows the company to provide more information
-about the contamination being reported. For example, if the company is
-reporting a “NOC”, the circumstances page will allow the company to report
-what type of contamination occurred. The circumstances page will also
-trigger the system to require additional information based on the user’s input.
+On the Scenario page, the company provides more information about the contamination being reported, potential receptors and risk determinants. All the fields on this page are mandatory.
 
 |image19|
 
@@ -289,71 +256,74 @@ trigger the system to require additional information based on the user’s input
 
 **Key Things to Know About the Scenario Page**
 
-1. | To describe the extent of contamination, provide brief details
-     regarding the depth and spread of
-   | contamination in the affected media, as delineated at the time of
-     NOC submission.
+1. | To identify all contaminants confirmed to be present at the contaminated site, use the pulldown and click all that apply. Use “Other” if contaminant(s) are not in the pulldown list. Upon selecting “Other” a textbox opens for the contaminant to be typed in. 
 
-   |image22|
 
-2. Definition of a receptor: The person or organisms, including plants,
-   potentially subjected to chemical exposure. If ‘terrestrial wildlife’
-   is selected, there is no need to identify the minimum distance
-   between the receptor and the contamination.
 
-   |image23|
+2. | The best information available to the company when the NOC is submitted is used to provide the initial estimate of volume of contaminated soil.
 
-3. Potentially affected persons and communities notification and
-   engagement ‐ Documents cannot be uploaded until the NOC is submitted.
-   Upon submission of the NOC the functionality to upload a document
-   will appear in the menu on the left hand side of the page. Attach
-   documents immediately upon submission of NOC.
 
-4. | If you have any questions or concerns relating to notifying
-     Indigenous groups potentially
-   | impacted by contamination, please discuss with the CER
-     environmental analyst assigned to your
-   | REM event. See the CER `Early Engagement
-     Guide <http://www.cer-rec.gc.ca/bts/ctrg/gnnb/rlnggmntgd/index-eng.html>`__
-     for further information on expectations related to engagement.
 
-4.9 Actions Page
+3. | To select the Source of Contamination, use the pulldown list. Once a source is selected, an additional text box opens to add more details about the contamination source. Include any details that further help to describe the contamination source and what occurred.
+
+4. | Third Party Contamination can be indicated with the yes/no pulldown. For reference, a link is provided for the CER’s Remediation Process Guide where the definition of Third Party Contamination is provided. Companies reporting Third Party Contamination proceed in the reporting process for Third Party Contamination. Refer to the section 9 of the CER’s Remediation Process Guide and 'Bulletin 1. Third Party Contamination <https://www.cer-rec.gc.ca/en/safety-environment/environment/remediation/bulletin-1-third-party-contamination.html>'_. for more guidance. 
+
+5. | Check all media that apply in the pulldown list for “Contamination has been confirmed in the following media”. The pulldown list includes an “Other” option. If “Other” is selected, a text box opens where the company specifies other media impacted. For example, vegetation. 
+
+6. | To describe the extent of contamination, include brief details on the estimated area and depth of contamination in the affected media, as understood at the time of NOC submission. 
+
+7. | Check all the receptors that may be affected by contamination. Once selected, a description of the receptor and the distance from contamination can be entered. For reference, Receptor means the entity (e.g., organism, population, community, ecosystem, humans) that might be adversely affected by contact with or exposure to a substance of concern Receptor (from Department of Fisheries and Oceans, 2011 as included in the CER’s Remediation Process Guide). If “Terrestrial Wildlife” is a selected receptor, the minimum distance from the contamination to the receptor is not needed.
+
+8. | A series of questions with “yes/no” pulldowns and pulldowns for the distance to surface water and a potable water supply follow. The responses should reflect the information available at the time of NOC submission. Based on the responses to these Scenario questions and the distance to a residence on the Engagement page, OERS may automatically send the company a request for submission of a Closure Report. The standard submission date for these closure reports is one year from the date of NOC submission. Companies can submit a request for extension if the submission date cannot be met. 
+
+  | Upon review of the information submitted in the NOC, the CER environmental analyst may determine that further information is required prior to submission of a Closure Report. In this case, the CER environmental analyst will request further information through OERS. 
+
+9. | Additional information that may affect remediation complexity that is known as the time of NOC submission can also be added as seen below.
+
+
+4.9 Engagement Page
 ^^^^^^^^^^^^^^^^
 
-The actions page allows the company to describe the actions taken to
-date to mitigate the impacts of
-contamination and planned remedial activities. The actions page will
-also trigger the system to require
-additional information based on the user’s input.
+The engagement section collects information on engagement and further details on proximity of contamination to those that may be affected.
+
+**Key Things to Know About the Scenario Page**
+
+1. | The Early Engagement Guide provides guidance around engagement. If it is indicated that engagement is not required, provide a reason including details meeting Early Engagement Guide expectations.
+
+2. | If questions or concerns have been raised by third parties, additional textboxes open to allow the company to provide additional information. 
+
+3. | Three questions in the Engagement section ask whether contamination is within “proximity” to those that may be potentially be affected including, a) other contaminated sites where third parties have expressed a concern, b) an Indigenous Community, Reserve or Settlement or c) a known Site of Indigenous Significance. “Proximity” is a relative term used here to describe a distance over which concerns may be expected to be brought forward. This distance will vary with the stakeholders and rightsholders in a particular area. Provide answers using the company’s best understanding based on the company-wide notification and engagement process.
+
+4. | The page also asks “Is there a company-wide process in place to notify and engage Indigenous peoples established and implemented?”
+
+5. | If engagement is necessary, further questions are asked about the identification and notification of landowners, potentially affected Indigenous Peoples and other potentially affected persons. If identification or notification has not been completed, provide the reason. If notification has been completed, provide a record of the notification; this could be a Record of Engagement (described in the CER’s Remediation Process Guide).
+
+6. | Documents such as a Record of Engagement cannot be uploaded until the NOC is submitted. Upon submission of the NOC, the functionality to upload a document appears in the menu on the left-hand side of the page. Attach documents immediately upon submission of NOC.
+
+7. | If the company has any questions or concerns relating to notifying potentially affected Indigenous Peoples, please contact the CER with an email to the Remediation inbox at Remediation@cer-rec.gc.ca. See the CER Early Engagement Guide for further information on expectations related to engagement.
+
+When done entering information, click “Save and Next” using the workflow buttons at the bottom of the page.
+
+4.10 Actions Page
+^^^^^^^^^^^^^^^^
+
+The Actions page asks the company to describe the actions taken to date to mitigate the impacts of contamination and planned remedial activities. 
 
 |image25|
 
 **Key Things to Know About the Actions Page**
 
-1. The planned actions to mitigate the impacts of contamination should
-   include a brief description of planned next steps.
+1. | The summary description of the actions taken to date should include a brief description of what has been completed to any manage potential risks. 
 
-2. | If indicated that all substances have been cleaned up such that
-     they meet the applicable criteria,
-   | an email will be sent notifying you that a closure report must be
-     uploaded in order to achieve
-   | site closure, as outlined in the Remediation Process Guide.
+2. | The planned actions to mitigate the impacts of contamination should include a brief description of planned next steps.
 
-3. If ‘yes’ is selected to the question ‘Is the contamination contained
-   to company-owned property’ two additional questions will pop up. This
-   question pertains to company owned or leased lands.
+3. | If indicated that all substances have been cleaned up such that they meet the applicable criteria, an email is automatically be sent to the company requesting a Closure Report. The standard submission date for these closure reports is one year from the date of NOC submission. Companies can submit a request for extension if the submission date cannot be met.
 
-|image26|
+4. | The answer to the question, ‘Is the contamination contained to company-owned property’ is populated automatically using answers entered to previous questions. 
 
-  If the company indicates that the facility has an established
-  groundwater and surface water monitoring program that is implemented
-  and no free product is detected in groundwater wells, the CER may
-  require no further submissions beyond the CCME classification
-  worksheets and annual updates. The CER expects that accessible
-  contamination will be remediated at facilities as specified in the
-  company’s Environmental Protection Program.
+   | If the company indicates: the facility has an established groundwater monitoring program implemented; a surface water monitoring program is implemented or not applicable (i.e., not required as no surface water receptors are potentially exposed); no free product is detected in groundwater monitoring wells; and contamination does not pose potential adverse effects, the REM event can have Facility Monitoring status.  For REM events with Facility monitoring status, the CER would not require further submissions beyond annual updates (as long as the above conditions remain accurate). The CER expects accessible contamination will be remediated at facilities as specified in the company’s Environmental Protection Program.
 
-4. | Note that company owned property does not apply to Right of Ways
+5. | Note that company owned property does not apply to Right of Ways
      unless the company owns
    | the property on which the Right of Way lies. If the
      contamination is confined to company
@@ -366,32 +336,7 @@ additional information based on the user’s input.
      submission, but is later detected in wells, the CER must
      be notified.
 
-4.10 Screening Assessment
-^^^^^^^^^^^^^^^^^^^^^^^^^
-
-| The screening assessment page allows the company to provide additional
-  information about the
-| contamination in the situations where contamination has not been
-  cleaned up at the time of NOC
-| submission and contamination is not confined to company owned
-  property. The responses should
-| reflect the information available at the time of NOC submission.
-
-The responses to the screening assessment questions will be used to
-automatically assign a ‘low environmental risk’ status to certain
-contaminated sites. If the responses to the screening assessment
-questions indicate ‘low risk’, OERS will automatically send a request
-for submission of a closure report. Upon review of the information
-submitted in the NOC, the CER environmental analyst may determine that
-further information is required prior to submission of a closure report.
-In this case, the CER environmental analyst will request further
-information through OERS.
-
-For REM events that receive a medium or high risk site status, the REM
-event will follow the regular procedure highlighted in Section 5.0 of
-this document.
-
-|image27|
+When done entering the information, click “Save and Next” using the workflow buttons at the bottom of the page.
 
 4.11 Company Notes
 ^^^^^^^^^^^^^^^^^^
@@ -406,48 +351,29 @@ commenter’s name and email address are required.
 4.12 Final Submission
 ^^^^^^^^^^^^^^^^^^^^^
 
-| Once you have clicked the “Submit” button at the bottom of this page,
-  CER staff will be notified; will review your information for
-  completeness; and will either send you a message via email with the
-  next action required or will contact you for more detailed
-  information. The system will automatically assign the event a REM
-  number, which will be used as a file reference.
-| Note that your link to the data for this REM event will be disabled
-  and you will no longer be able to make changes to this information
-  after you click the Submit button.
+Once you have clicked the “Submit” button at the bottom of this page:
+
+•	CER staff are notified, review the information for completeness and content, and may contact the company with the next action required or for more information. 
+•	The system automatically assigns the event a REM number, which is used as a file reference (e.g., REM2023-XXX).
+•	The link to the data for the REM event is disabled and further changes cannot be made.
+
 
 **Key Things to Know About the Final Submission Page**
 
-1. The next steps for managing the contaminated site may vary depending
-   on how the questions were answered during the NOC submission. Some
-   sites may require no further action except for an annual update,
-   while others may require more in depth management. Other sites may
-   immediately ask for a closure report following the final NOC
-   submission.
+1.	The next steps for managing the contaminated site and associated REM event vary. Some REM events require no further action except for Annual Updates, while others require more in-depth management and CER oversight. As noted in the Scenario and Actions sections, a Closure Report may be requested automatically upon NOC submission.
 
-2. After submitting the “Final Submission” you will receive a
-   “confirmation of your submission” notification email with the
-   contents of your report. The email will specify the next action
-   required according to the Remediation Process Guide.
+2.	After the “Final Submission”, companies receive a “Confirmation of your Submission” notification email and a report generated with the data entered in the NOC. The email specifies the next action required according to the Remediation Process Guide.
 
-3. You will no longer be able to use the link provided to change the NOC
-   submitted data. The link will now be used to manage the REM event and
-   will only be active for contact changes, document uploads,
-   Information Requests (IR), company notes, and submission extensions.
-   If pertinent information was left out or if “Submit” was accidentally
-   selected, please contact the CER at remediation@cer-rec.gc.ca.
+3.	While the link provided can no longer be used to change the data submitted in the NOC, it can now be used to manage the REM event for contact changes, document uploads, Information Request (IR) responses, company notes, and to request an extension for a report submission date. If pertinent information was left out or mistakenly entered, or “Submit” was accidentally selected, please contact the CER using the Remediation inbox at remediation@cer-rec.gc.ca.
+
 
 The following section contains additional information about the follow
 up required on NOCs.
 
-5. REM Event Management
+5. Remediation Event Management
 -----------------------
 
-Upon review of the REM event, the CER environmental analyst will send an
-email outlining the next submission required for this REM event. This
-email will include a link that can be used for future communication (IR
-responses) and for uploading documents. Use the link in the email to
-enter the online portal to upload the report.
+Upon submission the system automatically sends the company an email confirming the NOC submission, the assigned REM event number and the link to use for future REM event management. The following section provides guidance on REM event management. Use the link in the email to enter the online portal and upload the report.
 
 Upon re‐entering OERS following NOC submission, the menu on the left
 hand side will include the following Table of Contents.
@@ -457,52 +383,40 @@ hand side will include the following Table of Contents.
 5.1 Summary
 ^^^^^^^^^^^
 
-This page provides an overview of the information entered in the NOC.
-The information contained on this page can only be changed by CER staff.
+The Summary page provides an overview of the information entered in the NOC. This information can only be changed by CER staff. Please notify CER staff of any errors using the Remediation inbox at remediation@cer-rec.gc.ca.
 
 5.2 Contacts
 ^^^^^^^^^^^^
 
-The contacts screen will display the contact information entered in the
-initial contact page. Additional contact may be entered on this screen
-by selecting “Add Contact.” Contact information can be modified by
-clicking “Edit” to the right of the contact.
+All contacts for a REM event receive automatic notifications generated by the system for the REM event. 
+
+The Contacts page displays contact information entered in the initial contact page. Selecting “Add Company Contact” to add additional contacts. Modify contact information by clicking “Edit” to the right of the contact.
 
 |image31|
 
-Please keep the contact information up to date and accurate. Make sure
-to update this field when the company contact is changed. There must be
-at least one contact for each REM. If there are multiple contacts on
-this page, each contact will receive notifications for this REM event.
+Please keep contact information up to date and accurate and update this field whenever company contact(s) are changed. Every REM event needs at least one contact
 
 5.3 Remediation Reports
 ^^^^^^^^^^^^^^^^^^^^^^^
 
-This page lists the reports required by the CER for this REM event,
-according to the Remediation Process Guide. To access the list of
-required remediation reports, select “Remediation Reports.”
+Reports (e.g., Remedial Action Plan, Annual Update) are requested automatically by the system or manually by the CER lead environmental analyst, consistent with the CER’s Remediation Process Guide. The Remediation Reports  page lists the reports required by the CER for the REM event. Select “Remediation Reports” to access the list of required remediation reports.
 
 |image32|
 
-The “Upload” link next to the desired report should be used to upload
-the required documents by the specified submission date. Upon uploading
-a document, the CER's environmental analyst will be notified to review
-and follow up as appropriate. Documents can also be uploaded through the
-“Upload document” page. To view the details, documents and information
-requests pertaining to a specific report, select “Status” beside the
-desired report.
+Each report listed has a summary of its status and has an “Upload” link to upload required documents by the specified submission date. Upon uploading a document, the CER’s environmental analyst is notified and review and follow up proceed as appropriate. 
+
+Alternatively, documents can also be uploaded through the Upload Document page. Select the “Status” link beside the desired report to view details, documents, and IRs pertaining to a specific report.
 
 |image33|
 
 5.4 Remediation Reports – Status and Details
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Below is an example of the “Status and Details” page for a RAP, one type
-of remediation report. The details about the report, attached documents,
-and information request, including IR response, and reviews are located
-on this page.
+An example of the Status and Details page for a RAP (one type of remediation report) is shown below. The details about the report, attached documents, and IR, including IR response, and reviews are on this page.
 
 |image34|
+
+Please Note: Accepted reports require no further action unless otherwise specified. Reports that are not accepted require consultation with CER staff and a new report submission. CER Staff comments explain why a report was not accepted. 
 
 **Note:** The report acceptance for RAPs differ from other report types.
 When a RAP is accepted, the identified company contact/s will receive an
@@ -518,85 +432,51 @@ type.
 5.5 Reports – Submission Date Change
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Selecting the “Reports” under Remediation Reports will allow you to view
-the types of reports required for the REM event. Clicking on the
-specific report will bring you to a page that can be used to edit the
-submission date of the document with a rationale for the submission date
-change. You can also select ”Edit Submission Date” next to the report on
-the Remediation Reports page to reach the same page. If you desire to
-see the details, documents and information requests pertaining to a
-specific report or to upload a document, select “Remediation Reports”,
-and then “Status” or “Upload” beside the desired report.
+The reports required for a REM event are viewed by selecting the “Reports” under Remediation Reports. Clicking on the specific report opens a page to edit the submission date of the document with a rationale for the submission date change. Selecting ”Edit Submission Date” next to the report on the Remediation Reports page reaches the same page. 
 
 |image37|
 
-To submit a request to change the submission date dealine, enter the
-propsed deadline date and explanation for requesting a deadline
-extension, then select “Submit.” This will send an email to the CER
-staff assigned to the REM event. The company contact/s will receive an
-email when the CER staff accepts or rejects the submission deadline
-change request.
+To request to change the submission date, enter the proposed date and reason for requesting an extension, then select “Submit.” An email is sent to the CER staff assigned to the REM event. The company contact/s automatically receives a notification email when CER staff accepts or rejects the submission date change request.
 
 |image38|
 
 5.6 Information Requests
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
-The CER staff assigned to your REM event may issue an information
-request to gain further understanding, clarification and information on
-a report that was uploaded. The system will notify you via email when
-additional information has been requested. All responses to information
-requests must be entered through the system. The status of the
-information request is located on this page. Information requests are
-also viewable from the “Status” page in Remediation Reports. To provide
-a response to an IR, select “Information Requests” from the tab menu and
-then “Edit Response” beside the IR that you wish to respond to.
+CER staff assigned to your REM event may issue an IR to gain further understanding, clarification and information on the NOC, an uploaded report or Annual Update. Company contacts are automatically notified by the system via email when an IR has been entered. 
+
+Please contact the CER at remediation@cer-rec.gc.ca if there are questions or clarification of an IR is needed. A brief conversation between CER staff and the company before IR response submission is an effective way to ensure IR responses are satisfactory and often avoids IRs on the same topic. 
+
+The status of an IR is located on the Information Requests page. IRs are also viewable from the Status page in Remediation Reports. 
+
+Company responses to IRs are entered through the system. To provide a response to an IR, select “Information Requests” from the Table of Contents menu on the left side.
 
 |image39|
 
-The “Edit Response” link will take you to the below page where you will
-submit the response to the IR from the environmental analyst. Please
-enter the response and email address in the textbox below and click the
-“Submit” button. Once submitted, the response can no longer be revised.
+Then select “Edit Response” beside the IR. 
 
-If the response to the information request includes a document, upload
-the document through the “Upload Document” page and select which
-Remediation Report Type and IR this response is addressing.
+The “Edit Response” link opens the page below where the IR response is entered. Textboxes are provided for the response and responding email address.
+  
+If the response to the IR includes a document, the document is uploaded using the Upload Document page, and selecting the Remediation Report Type and the IR.
+
+Click the “Submit” button to submit. Once submitted, the response can no longer be revised.
 
 |image41|
 
-Once a CER environmental analyst has reviewed the IR, they have the
-opportunity to provide comments in their review. An email is not sent
-out for CER staff review comments, but these comments are viewable under
-the Information Requests tab or the Status page on the Remediation
-Reports tab. It is up to the discretion of CER staff to notify the
-company regarding IR response acceptance. An additional IR may be issued
-if initial IR conditions were not met.
+The CER environmental analyst reviewing the IR has the opportunity to provide comments on their review. While an automatic email is not sent out to the company when CER staff review comments are entered, these comments can see seen under the Information Requests page or the Status page on the Remediation Reports page. CER staff may also take the step to notify the company upon IR response acceptance. An additional IR may be issued if the response does not provide the information needed.
 
 5.7 Annual Updates
 ^^^^^^^^^^^^^^^^^^
 
-Previous annual updates relating to the REM event will appear on this
-page. No information can be edited for past annual updates.
+The Annual Updates from previous years for a REM event are on the Annual Updates page. Information cannot be edited for past annual updates. If you notice this information is incorrect, please contact the CER using the Remediation inbox at remediation@cer-rec.gc.ca
 
-An email request for the annual update will be send by the CER on 1
-April. This email will contain a link to the page which lists all the
-REM events that are active (i.e., not closed or misreported) for the
-company that your email is the contact for (i.e., if your company has
-more than one contact assigned to different REMs, all contacts will
-receive the same list of annual updates). An annual update must be
-submitted for every REM event for which the NOC was submitted prior to
-31 December of the previous year, and are not yet closed.
+Since 2021, annual updates submitted since 1 April 2021 for REM events submitted on or after 15 August 2018 are available online on the CER’s website. Once an Annual Update is submitted, information entered into the fields is automatically published on the CER website as described in the All Company Letter from 8 April 2021.
 
-You will be able to submit the annual update upon receiving the annual
-update request email sent by the CER. The annual updates must be
-submitted by 30 June. Reminder emails will be sent on the 15 June.
+An email to request Annual Updates is automatically sent to the company on 1 April each year. This email contains a link to a page listing all active REM events (i.e., not closed or misreported) for the company contacts. If the company has more than one contact assigned to different REM events, all contacts receive the same list of REM events requiring Annual Updates. An Annual Update must be submitted for every active REM event for which the NOC was submitted prior to 31 December of the previous year.
 
-The following is an example of an annual update. These four questions
-must be answered for each REM event separately. Select “Save”, when
-wanting to save the progress for the annual update. Select “Submit,”
-when you are ready to send the annual update to the CER. The annual
-update cannot be changed once submitted.
+The Annual Update can be submitted upon receiving the annual update request email sent by the CER. The Annual Updates must be submitted by 30 June each year. Reminder emails are sent on the 15 June.
+
+The Annual Update involves completing three fields for each active REM event as shown below. Select “Save”, to save the progress for an Annual Update. Select “Submit,” when to send the annual update to the CER.
 
 |image43|
 
@@ -607,104 +487,68 @@ update cannot be changed once submitted.
 
    |image44|
 
-   Site assessment – Environmental Site Assessment in progress to
-   determine next steps, prior to active remedial or risk management
-   work
+    | •	Site assessment – Environmental site assessment work is in progress/planned to characterize the site, develop the conceptual site model and determine next steps for remediation/contamination management.
+    | •	RAP/RMP awaiting CER review – a RAP or RMP has been submitted to the CER who is reviewing the report. The RAP or RMP has not yet been accepted or rejected by the CER. 
+    | •	Ongoing remediation – a RAP has been submitted and/or or active remedial work is ongoing.
+    | •	Risk managed – a Risk Management Plan has been submitted and accepted and is being implemented or risk management of potential risks is taking place.
+    | •	Post remediation monitoring – active remedial work is complete and monitoring is in effect to evaluate remediation success.
+    | •	Facility monitoring – this status applies to facilities on company owned or leased lands where conditions in section 12.3 of the CER’s Remediation Process Guide are met.
+    | •	Third Party Contamination – the contamination related to the REM event is not emanating or migrating from the company’s Facilities or Company Owned or Leased Lands or Right-of-Way.
+    | •	Closure status awaiting CER review – a Closure Report has been submitted to the CER who is reviewing the report. The Closure Report has not yet been accepted or rejected by the CER. 
+    | •	Closed – the REM event is closed.
 
-   Ongoing remediation – RAP has been submitted and/or or active
-   remedial work is ongoing
+2. Annual Update field 1: Describe progress in site assessment and remedial activities, issues encountered and any changes in site conditions over the last year. Include brief details on activities completed in the past year and the result of site assessments. Once this field is completed, the CER has an understanding of the pertinent activities and any changes noted during the past year. 
 
-   Post remediation monitoring – Active remedial work complete and
-   groundwater or reclamation monitoring is in effect
+3.	Annual Update field 2: Provide a summary of planned future remedial activities and submitted reports, with timelines. Once this field is completed, the CER has an understanding of the company’s next steps for the contamination. Companies should include plans for development of a remedial action plan (RAP), risk management plan (RMP) or closure report, along with justification and timing. The CER Environmental Analyst considers this information along with the other information available for a REM event. Refer to Appendix C of the CER’s Remediation Process Guide for guidance on when a RAP is required.
 
-   Risk managed – Risk Management Plan has been submitted and/or risk
-   management is taking place
+4.	Annual Update field 3: Describe the status of any outstanding landowner or third-party complaints and measures taken to address these complaints. Once this field is completed, the CER knows if issues associated with engagement have occurred and what is being done to remedy this.
 
-   Facility monitoring – Use this status at facilities on company owned
-   or leased lands where there is a groundwater monitoring program in
-   place as described in section 12.3 of the CER 2020 Remediation
-   Process Guide.
-
-2. Items that should be included in the summary of planned future
-   remedial activities and submitted reports are as follows: the plans
-   for the development of a remedial action plan (RAP), risk management
-   plan (RMP) or closure report in the annual update), along with
-   justification for the report being developed. The CER Environmental
-   Analyst will consider this justification, along with the information
-   submitted in the NOC, CCME worksheets, and any persons’ interest(s)
-   in the site, when requesting a RAP, RMP or closure report. Refer to
-   Appendix C of the CER 202 Remediation Process Guide for guidance on
-   when a RAP is required.
-
-    |image45|
+5.	Once the information provided in the three fields of the Annual Update is reviewed, the CER environmental analyst accepts the annual update (in this case, acceptance indicates the Annual Update has been reviewed). The CER environmental analyst may ask IR, request a report, identify follow up questions for a meeting with the company, or await the Annual Update for the next year. 
 
 5.8 Company Notes
 ^^^^^^^^^^^^^^^^^
 
-This screen allows users to submit and attach a comment to the REM
-event. This comment box provides an opportunity for additional comments,
-questions, and concerns to be sent to the CER staff assigned to the NOC.
-The commenter’s name and email address are required. Select “Submit,”
-when you are ready to send the CER your comments. Select “Save,” when
-you want to save your progress, but are not ready to send the automated
-email. Note: CER Staff are still able to view Company Notes when
-“saved,” but will not receive an email notification until it is
-“Submitted.”
+This page is used to submit additional comments, questions and concerns about a REM event to the CER. The commenter’s name and email address are required. 
+Select “Save,” to save progress prior to submitting the note. To send to the CER, select “Submit” and the note is automatically emailed to the Remediation inbox at remediation@cer-rec.gc.ca. Note: CER staff are able to view Company Notes when “saved,” but do not receive an email notification until it is “Submitted”.
 
 |image46|
 
 5.9 Documents Page
 ^^^^^^^^^^^^^^^^^^
 
-The Documents screen allows for the upload of documents relating to the
-REM event including, photographs, reports, various types of
-correspondence, etc.
+The Documents page is where documents relating to the REM event including, photographs, reports, various types of correspondence, etc. are uploaded.
 
-Populate the mandatory fields and select document type from the drop
-down menu.
+Populate the mandatory fields and select document type from the dropdown menu.
 
-You can select “Add” for each additional document, or you can click
-“Next” when all documents have been uploaded.
-
-Key Things to Know About the Documents Page:
-
-1. The size limit for uploads is 50 MB. If you have a larger file than
-that you may submit it in hardcopy or via digital media directly to the
-CER Records and Mail department. When you do so please quote the REM
-event number for the file.
-
-2. You may upload as many documents as are required.
-
-3. Once you have uploaded a document and you wish to delete it, you can
-contact the CER via email to remediation@cer-rec.gc.ca
-
-4. Do not upload documents that contain private or sensitive
-information. You must submit any of these documents in hard-copy to the
-CER Records and Mail department and indicate that you wish to submit
-them under section 16.1 of the CER Act. As above, please include the REM
-event number with the document.
+For each additional document, select “Add” or click “Next” when all documents have been uploaded.
 
 |image47|
+
+**Key Things to Know About the Documents Page**
+
+1. The size limit for uploads is 50 MB. If you have a larger file than that you may submit it in hardcopy or via digital media directly to the CER Records and Mail department. When you do so please quote the REM event number for the file.
+
+2. As many documents as required can be uploaded.
+
+3. To delete an uploaded document, contact the CER via email at remediation@cer-rec.gc.ca.
+
+4. Do not upload documents containing private or sensitive information. Any of these documents should be submitted in hard-copy to the CER Records and Mail department, clearly indicating the document is  being submitted under section 16.1 of the CER Act. As above, please include the REM event number with the document.
+
 
 5.10 Site Closure
 ^^^^^^^^^^^^^^^^^
 
-Site Closure is initiated by CER staff by requesting a “Closure Report”
-through an email generated by the system. The workflow for this request
-will be similar to other report types. The company contact may request a
-deadline extension, view the report status, and upload a document
-pertaining to the Closure Report under the Remediation Reports tab.
+The Closure process is initiated when a Closure Report and Declaration letter are submitted by the company. Once the company considers remediation is complete, a Closure Report can be submitted without a request from the CER. The CER may also request a Closure Report, and based on information provided in the NOC, the system may automatically request a Closure Report (see Scenario and Actions sections of this guide). 
+
+The Closure Report workflow is similar that of other report types. The company contact may request an extension on the submission date, view the report status, and upload documents under the Remediation Reports page.
+
 
 |image48|
 
-Upon submission of a Closure Report and Declaration Letter, the CER
-environmental analyst will review the closure report and if satisfied,
-recommend site closure to the Director of the Environmental Protection
-Team. Upon accepting the recommendation to close the site, the CER will
-send via email a Remediation Closure Letter and Close the REM event in
-OERS. The company will receive an automated email stating that the REM
-event has been closed and will no longer be able to access the REM event
-in OERS.
+Upon submission of a Closure Report and Declaration Letter, the CER environmental analyst reviews the submissions. When satisfied remediation is demonstrated to be complete, the CER environmental analyst recommends site closure to the Director of the Environmental Protection Team. 
+
+Upon accepting the recommendation to close the site, the CER emails a Remediation Closure Letter to the company and closes the REM event in OERS. The company receives an automated email from the system stating the REM event is closed and can no longer access the REM event in OERS. Annual updates are no longer required.
+
 
 .. |image0| image:: media/image1.png
    :width: 3.68125in
