@@ -62,7 +62,7 @@ including an email address. The email address will be used to allow the
 system to send you a link to access the full OERS portal. Once complete,
 click “Save and Next”.
 
-|image3|
+|image0|
 
 **Email Confirmation**
 
@@ -289,6 +289,8 @@ The engagement section collects information on engagement and further details on
 **Key Things to Know About the Scenario Page**
 
 1. | The Early Engagement Guide provides guidance around engagement. If it is indicated that engagement is not required, provide a reason including details meeting Early Engagement Guide expectations.
+
+|image101|
 
 2. | If questions or concerns have been raised by third parties, additional textboxes open to allow the company to provide additional information. 
 
@@ -549,6 +551,7 @@ Upon submission of a Closure Report and Declaration Letter, the CER environmenta
 
 Upon accepting the recommendation to close the site, the CER emails a Remediation Closure Letter to the company and closes the REM event in OERS. The company receives an automated email from the system stating the REM event is closed and can no longer access the REM event in OERS. Annual updates are no longer required.
 
+.. |image101| image:: media/image101.png
 
 .. |image0| image:: media/image1.png
    :width: 3.68125in
