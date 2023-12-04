@@ -290,6 +290,8 @@ The engagement section collects information on engagement and further details on
 
 1. | The Early Engagement Guide provides guidance around engagement. If it is indicated that engagement is not required, provide a reason including details meeting Early Engagement Guide expectations.
 
+|image101|
+
 2. | If questions or concerns have been raised by third parties, additional textboxes open to allow the company to provide additional information. 
 
 3. | Three questions in the Engagement section ask whether contamination is within “proximity” to those that may be potentially be affected including, a) other contaminated sites where third parties have expressed a concern, b) an Indigenous Community, Reserve or Settlement or c) a known Site of Indigenous Significance. “Proximity” is a relative term used here to describe a distance over which concerns may be expected to be brought forward. This distance will vary with the stakeholders and rightsholders in a particular area. Provide answers using the company’s best understanding based on the company-wide notification and engagement process.
@@ -549,6 +551,7 @@ Upon submission of a Closure Report and Declaration Letter, the CER environmenta
 
 Upon accepting the recommendation to close the site, the CER emails a Remediation Closure Letter to the company and closes the REM event in OERS. The company receives an automated email from the system stating the REM event is closed and can no longer access the REM event in OERS. Annual updates are no longer required.
 
+.. |image101| image:: media/image101.png
 
 .. |image0| image:: media/image1.png
    :width: 3.68125in
